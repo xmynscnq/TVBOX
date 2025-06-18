@@ -44,30 +44,6 @@
       "api": "https://naixxzy.com/api.php/provide/vod"
     },
     {
-      "key": "apilj",
-      "name": "辣椒",
-      "type": 1,
-      "api": "https://apilj.com/api.php/provide/vod/at/json"
-    },
-    {
-      "key": "semaozy",
-      "name": "色猫",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php"
-    },
-    {
-      "key": "shayuapi",
-      "name": "鲨鱼",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/at/json/"
-    },
-    {
-      "key": "avre06",
-      "name": "黄瓜",
-      "type": 1,
-      "api": "https://www.avre06.com/api.php/Prodao/vod"
-    },
-    {
       "key": "jkunzyapi",
       "name": "JKUN",
       "type": 1,
