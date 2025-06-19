@@ -1,4 +1,54 @@
 {
+  "lives": [
+    {
+      "group": "央视频道",
+      "channels": [
+        { "name": "CCTV1 综合", "url": "http://111.20.35.103:6610/000000001000/1000000004000010034/index.m3u8?..." },
+        { "name": "CCTV2 财经", "url": "http://111.20.35.103:6610/000000001000/1000000004000010009/index.m3u8?..." },
+        { "name": "CCTV3 综艺", "url": "http://111.20.35.103:6610/000000001000/1000000004000010003/index.m3u8?..." },
+        { "name": "CCTV4 中文国际", "url": "http://111.20.35.103:6610/000000001000/1000000004000010004/index.m3u8?..." },
+        { "name": "CCTV5 体育", "url": "http://111.20.35.103:6610/000000001000/1000000004000010005/index.m3u8?..." },
+        { "name": "CCTV6 电影", "url": "http://111.20.35.103:6610/000000001000/1000000004000010006/index.m3u8?..." },
+        { "name": "CCTV7 国防军事", "url": "http://111.20.35.103:6610/000000001000/1000000004000010007/index.m3u8?..." },
+        { "name": "CCTV8 电视剧", "url": "http://111.20.35.103:6610/000000001000/1000000004000010008/index.m3u8?..." },
+        { "name": "CCTV9 纪录", "url": "http://111.20.35.103:6610/000000001000/1000000004000010002/index.m3u8?..." },
+        { "name": "CCTV10 科教", "url": "http://111.20.35.103:6610/000000001000/1000000004000010010/index.m3u8?..." },
+        { "name": "CCTV11 戏曲", "url": "http://111.20.35.103:6610/000000001000/1000000004000010011/index.m3u8?..." },
+        { "name": "CCTV12 社会与法", "url": "http://111.20.35.103:6610/000000001000/1000000004000010012/index.m3u8?..." },
+        { "name": "CCTV13 新闻", "url": "http://111.20.35.103:6610/000000001000/1000000004000010013/index.m3u8?..." },
+        { "name": "CCTV14 少儿", "url": "http://111.20.35.103:6610/000000001000/1000000004000010014/index.m3u8?..." },
+        { "name": "CCTV15 音乐", "url": "http://111.20.35.103:6610/000000001000/1000000004000010015/index.m3u8?..." }
+      ]
+    },
+    {
+      "group": "卫视频道",
+      "channels": [
+        { "name": "湖南卫视", "url": "http://117.169.120.138:808/hls/5/index.m3u8" },
+        { "name": "东方卫视", "url": "http://117.169.120.138:808/hls/3/index.m3u8" },
+        { "name": "浙江卫视", "url": "http://117.169.120.138:808/hls/6/index.m3u8" },
+        { "name": "江苏卫视", "url": "http://117.169.120.138:808/hls/2/index.m3u8" },
+        { "name": "北京卫视", "url": "http://117.169.120.138:808/hls/1/index.m3u8" },
+        { "name": "安徽卫视", "url": "http://117.169.120.138:808/hls/4/index.m3u8" },
+        { "name": "山东卫视", "url": "http://117.169.120.138:808/hls/7/index.m3u8" },
+        { "name": "黑龙江卫视", "url": "http://117.169.120.138:808/hls/8/index.m3u8" },
+        { "name": "天津卫视", "url": "http://117.169.120.138:808/hls/9/index.m3u8" }
+      ]
+    },
+    {
+      "group": "虎牙频道",
+      "channels": [
+        { "name": "成龙历险记", "url": "https://hs.flv.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.flv?wsSecret=7b5d646339b9373a32f35a4b9cd9862e&wsTime=68537766&seqid=3029828626810&ctype=huya_live&ver=1&txyp=o%3Awx91%3B&fs=bgct&dMod=wcs-1&sdkPcdn=1_1&u=1279197230569&t=100&sv=2506180756&sdk_sid=1750300217512&a_block=0" },
+        { "name": "海绵宝宝", "url": "https://cn-jssz-cm-02-45.bilivideo.com/live-bvc/262429/live_237280207_2653381.flv?expires=1750304240&pt=web&deadline=1750304240&len=0&oi=836570263&platform=web&qn=10000&trid=10003d67544a534204981380fbea5d685377&uipk=100&uipv=100&nbs=1&bmt=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs,bmt&cdn=cn-gotcha01&upsig=f5968e178370dd7df4b7d4403b1505ea&site=bfcb092c18d5a61c7c291a5e7abd6951&free_type=0&mid=438899799&sche=ban&sid=cn-jssz-cm-02-45&chash=1&sg=df&trace=13&isp=other&rg=NorthEast&pv=Jilin&suffix=origin&hdr_type=0&source=puv3_onetier&sl=2&hot_cdn=57345&expected_qn=10000&p2p_type=1&strategy_ids=11,57&pp=rtmp&score=52&info_source=cache&long_ab_flag_value=test&strategy_id=11&sk=601c1f515778994ef5716995a5ae2a01&origin_bitrate=445466&long_ab_id=45&codec=0&deploy_env=prod&long_ab_flag=live_default_longitudinal&strategy_types=0,2&strategy_type=0&ld=xs&strategy_version=latest&vd=nc&zoneid_l=151420937&sid_l=live_237280207_2653381&src=puv3&order=1" },
+        { "name": "浙江卫视", "url": "http://117.169.120.138:808/hls/6/index.m3u8" },
+        { "name": "江苏卫视", "url": "http://117.169.120.138:808/hls/2/index.m3u8" },
+        { "name": "北京卫视", "url": "http://117.169.120.138:808/hls/1/index.m3u8" },
+        { "name": "安徽卫视", "url": "http://117.169.120.138:808/hls/4/index.m3u8" },
+        { "name": "山东卫视", "url": "http://117.169.120.138:808/hls/7/index.m3u8" },
+        { "name": "黑龙江卫视", "url": "http://117.169.120.138:808/hls/8/index.m3u8" },
+        { "name": "天津卫视", "url": "http://117.169.120.138:808/hls/9/index.m3u8" }
+      ]
+    }
+  ],
   "sites": [
     {"key":"ffzy","name":"非凡资源","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/"},
     {"key":"bfzy","name":"暴风资源","type":1,"api":"http://by.bfzyapi.com/api.php/provide/vod/"},
