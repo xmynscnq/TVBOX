@@ -10,7 +10,6 @@
     {"key": "jisu", "name": "极速资源", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/at/json"},
     {"key": "jinying", "name": "金鹰资源", "type": 1, "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json"},
     {"key": "heimuer", "name": "黑木耳资源", "type": 1, "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list"},
-    {"key": "huya", "name": "虎牙资源", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod"},
     {"key": "guangsu", "name": "光速资源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/josn"},
     {"key":"apibdzy","name":"百度云影视","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
     {"key":"360zy","name":"360 影视","type":1,"api":"https://360zy.com/api.php/provide/vod/"},
