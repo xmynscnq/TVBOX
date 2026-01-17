@@ -3,8 +3,8 @@
     {
       "key": "bwzy",
       "name": "百万",
-      "type": 0,
-      "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml/",
+      "type": 1,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -12,8 +12,8 @@
     {
       "key": "155",
       "name": "一五五",
-      "type": 0,
-      "api": "https://155api.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -21,8 +21,8 @@
     {
       "key": "thzy",
       "name": "桃花",
-      "type": 0,
-      "api": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -30,8 +30,8 @@
     {
       "key": "ask",
       "name": "奥斯卡",
-      "type": 0,
-      "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -39,8 +39,8 @@
     {
       "key": "lsb",
       "name": "老色",
-      "type": 0,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -48,8 +48,8 @@
     {
       "key": "yutu",
       "name": "玉兔",
-      "type": 0,
-      "api": "https://apiyutu.com/api.php/providedao/vod/at/xml",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -57,8 +57,8 @@
     {
       "key": "senlin",
       "name": "森林",
-      "type": 0,
-      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -67,7 +67,7 @@
       "key": "JKUN",
       "name": "JKUN",
       "type": 1,
-      "api": "https://www.jkunzyapi.com/api.php/provide/vod/",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -76,7 +76,7 @@
       "key": "shark",
       "name": "鲨鱼",
       "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+      "api": "https://shayuapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
