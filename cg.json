@@ -8,7 +8,8 @@
     {"key": "guangsu", "name": "光速资源", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/josn"},
     {"key":"apibdzy","name":"百度云影视","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
     {"key":"360zy","name":"360 影视","type":1,"api":"https://360zy.com/api.php/provide/vod/"},
-    {"key":"zuidazy","name":"最大资源网","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/"},
+    {"key":"zuidazy","name":"最大资源网","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/"}
   ]
 }
+
 
