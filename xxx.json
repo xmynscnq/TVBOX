@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {"key":"bwzy","name":"百万","type":1,"api":"https://api.bwzyz.com/api.php/provide/vod"},
+    {"key":"yiwu","name":"一五","type":1,"api":"https://155api.com/api.php/provide/vod"},
+    {"key": "thzy", "name": "桃花", "type": 1, "api": "https://thzy1.me/api.php/provide/vod"},
+    {"key": "askk", "name": "奥斯卡", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod"},
+    {"key": "lsgg", "name": "色佬", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod"},
+    {"key": "yutu", "name": "玉兔", "type": 1, "api": "https://apiyutu.com/api.php/providedao/vod"},
+    {"key":"shen","name":"森林","type":1,"api":"https://slapibf.com/api.php/provide/vod"},
+    {"key":"shark","name":"鲨鱼","type":1,"api":"https://shayuapi.com/api.php/provide/vod"},
+    {"key":"naix","name":"奶香","type":1,"api":"https://naixxzy.com/api.php/provide/vod/?ac=list"}
+  ]
+}
+
